@@ -1,0 +1,2 @@
+# AgriTech-IoT-Kit-2018
+It's an Internet of Connected Kit for educational purpose based on Wemos D1 Mini (ESP8266). It has bunch of sensors to detect sunlight, soil moisture, air temperature and humidity. These are the most critical 'vitals' that indicate a plant's well being - does it have enough sunlight, water? It will send you these values on your mobile app and based on that you can take appropriate actions. Using these specialized sensors, it automatically waters and monitors your plants in real time. 
