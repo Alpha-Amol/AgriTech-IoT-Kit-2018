@@ -14,7 +14,7 @@ The main reasons for dying plants are over- and under-watering, temperature and 
 You never have to worry about dead plants again. This kit will make your regular plant pot a smart automated pot which will take care of watering your plants and provide artificial light using LED Light. 
 
 ## Goals for the Kit:-
-•	Monitor plant vitals in real time (Soil Moisture, Air Temperature and Humidity, Light, Water Level and Wi-Fi Signal Strength too).
-•	Automatically water your plants.
-•	Switch ON the grow light when needed. 
-•	App based control on watering and LED grow light. For example, when you press the 'water' button on your app, it sends the signal to the wemos, which actuates a water pump. 
+•	Monitor plant vitals in real time (Soil Moisture, Air Temperature and Humidity, Light, Water Level and Wi-Fi Signal Strength too). <br/>
+•	Automatically water your plants. <br/>
+•	Switch ON the grow light when needed.  <br/>
+•	App based control on watering and LED grow light. For example, when you press the 'water' button on your app, it sends the signal to the wemos, which actuates a water pump.  <br/>
