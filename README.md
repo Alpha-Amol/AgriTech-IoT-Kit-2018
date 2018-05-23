@@ -2,8 +2,7 @@
 It's an Internet of Connected Kit for educational purpose based on Wemos D1 Mini (ESP8266). 
 
 ## Block Diagram: 
-<br/>
-<br/>
+
 ![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/block%20diagram.png "Block Diagram")
 
 <br/>
