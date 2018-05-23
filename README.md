@@ -2,10 +2,10 @@
 It's an Internet of Connected Kit for educational purpose based on Wemos D1 Mini (ESP8266). 
 
 Block Diagram: 
-![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/block%20diagram.png "Logo Title Text 1")
+<br/>
+![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/block%20diagram.png "Block Diagram")
 
-
-
+<br/>
 It has bunch of sensors to detect sunlight, soil moisture, soil temperature, air temperature and humidity. These are the most critical 'vitals' that indicate a plant's well being - does it have enough sunlight, water? It will send you these values on your mobile app and based on that you can take appropriate actions. Using these specialized sensors, it automatically waters and monitors your plants in real time. 
 <br/>
 Having green spaces in our homes the key to maintaining a happy and healthy lifestyle. But our pace of life gives us little chance to keep the exact rhythm of watering the plants according to their needs. With how busy our lives are, it's sometimes easy to forget to pay a little attention to your thirsty indoor plants until it's too late and you are left with a crusty pile of yellow carcasses. 
