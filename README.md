@@ -47,5 +47,7 @@ You never have to worry about dead plants again. This kit will make your regular
 
 
 ## Working Video: 
+<!--- 
 [Note:- Click on the below photo to view the video]
 [![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/Smartmali%20setup%2014.jpg)](https://www.youtube.com/watch?v=2Cm6qsXTmOo "Working Video")
+--->
