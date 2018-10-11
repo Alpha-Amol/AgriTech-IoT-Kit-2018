@@ -29,18 +29,15 @@ You never have to worry about dead plants again. This kit will make your regular
 
 ![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/smartmali%20pcbs.jpg "SmartMali PCB_2")
 
+![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/smartmali%20agritech%20pcb.jpg "SmartMali PCB_3")
+
+![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/smartmali%20pcbs2.jpg "SmartMali PCB_4")
+
+![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/PCB%20Casing.jpg "SmartMali PCB_Casing")
+
 
 
 ![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/Smartmali%20setup%2014.jpg "Whole Setup_1")
-
-![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/Smartmali%20setup%2014.jpg "Whole Setup_1")
-
-![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/Smartmali%20setup%2014.jpg "Whole Setup_1")
-
-![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/Smartmali%20setup%2014.jpg "Whole Setup_1")
-
-
-
 
 ![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/Kit%20Photos/Smartmali%20setup%2014.jpg "Whole Setup_1")
 
