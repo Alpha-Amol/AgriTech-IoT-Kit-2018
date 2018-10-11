@@ -4,7 +4,7 @@ It's an Internet of Connected Kit for educational purpose based on Wemos D1 Mini
 
 ## Block Diagram: 
 
-![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/block%20diagram.png "Block Diagram")
+![Hi there](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/block%20diagram.png "Block Diagram")
 
 <br/>
 Having green spaces in our homes the key to maintaining a happy and healthy lifestyle. But our pace of life gives us little chance to keep the exact rhythm of watering the plants according to their needs. With how busy our lives are, it's sometimes easy to forget to pay a little attention to your thirsty indoor plants until it's too late and you are left with a crusty pile of yellow carcasses. 
