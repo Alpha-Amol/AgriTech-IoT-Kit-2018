@@ -18,3 +18,7 @@ You never have to worry about dead plants again. This kit will make your regular
 •	Automatically water your plants. <br/>
 •	Switch ON the grow light when needed.  <br/>
 •	App based control on watering and LED grow light. For example, when you press the 'water' button on your app, it sends the signal to the wemos, which actuates a water pump.  <br/>
+
+## Kit Photos: 
+
+![alt text](https://github.com/Alpha-Amol/AgriTech-IoT-Kit-2018/blob/master/Documentation/block%20diagram.png "Block Diagram")
